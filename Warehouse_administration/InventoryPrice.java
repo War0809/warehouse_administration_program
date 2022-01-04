@@ -14,8 +14,8 @@ public class InventoryPrice {
     // Putting method in try/catch block.
 try {
 	// Input and output file locations.
-	File in = new File("/Users/warrengriscti/Desktop/School/Java/Inventory.txt");
-	File out = new File("/Users/warrengriscti/Desktop/School/Java/InventoryStock.txt");
+	File in = new File("/*****/Inventory.txt");
+	File out = new File("/*****/InventoryStock.txt");
 	
 	// Buffered reader reading from file location entered by user. 
 	// Buffered writer writing to file location  entered by user.
