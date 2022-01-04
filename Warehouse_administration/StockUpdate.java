@@ -16,8 +16,8 @@ public class StockUpdate {
 		String ID;
 		String stock;
 		//Input and temporary output file locations.
-		File in = new File("/Users/warrengriscti/Desktop/School/Java/Inventory.txt");
-		File tempin = new File("/Users/warrengriscti/Desktop/School/Java/InventoryEdit.txt");
+		File in = new File("/*****/Inventory.txt");
+		File tempin = new File("/*****/InventoryEdit.txt");
 
 		//Buffered reader reading from file location entered by user. 
 		//Buffered writer writing to file location  entered by user.
