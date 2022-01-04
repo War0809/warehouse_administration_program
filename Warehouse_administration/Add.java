@@ -13,7 +13,7 @@ public class Add {
 		// Putting the method in a try/catch block.
 		try {
 			//Reading file containing Inventory Stock.
-			input = new Scanner(new File("/Users/warrengriscti/Desktop/School/Java/InventoryStock.txt"));
+			input = new Scanner(new File("/Users/*****/InventoryStock.txt"));
 			while (input.hasNextDouble()) {
 				sum += input.nextDouble();
 				stock = input.nextInt();
