@@ -1,1 +1,1 @@
-# warehouse_administration_program
+# A Java program done as an assignment during my Diploma. The program simulates a warehouse administration program where the user can add, edit and delete stock items. User can also save to file and readfrom file to display stock statistics.
