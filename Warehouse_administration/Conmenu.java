@@ -140,7 +140,7 @@ public class Conmenu {
 			// If user chooses to save, array list is written to file.
 			if (answer.equalsIgnoreCase("Y")) {
 
-				FileWriter writer = new FileWriter("/Users/warrengriscti/Desktop/School/Java/Inventory.txt", true);
+				FileWriter writer = new FileWriter("/*****/Inventory.txt", true);
 				Writer output = new BufferedWriter(writer);
 				int sz = consumbles.size();
 				for (int i1 = 0; i1 < sz; i1++)
