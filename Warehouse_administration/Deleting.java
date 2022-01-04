@@ -18,8 +18,8 @@ public class Deleting {
 		String ID, record;
 
 		// Input and temporary output file locations.
-		File tempin = new File("/Users/warrengriscti/Desktop/School/Java/InventoryEdit.txt");
-		File in = new File("/Users/warrengriscti/Desktop/School/Java/Inventory.txt");
+		File tempin = new File("/*****/InventoryEdit.txt");
+		File in = new File("/*****/Java/Inventory.txt");
 
 		// Buffered reader reading from file location entered by user. 
 		// Buffered writer writing to file location  entered by user.
