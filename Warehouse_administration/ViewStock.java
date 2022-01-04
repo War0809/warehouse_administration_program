@@ -15,7 +15,7 @@ public class ViewStock {
 		System.out.println("Product Id to view stock:");
 		ID = sc.nextLine();
 		// Read file from specified location.
-		File in = new File("/Users/warrengriscti/Desktop/School/Java/Inventory.txt");
+		File in = new File("/*****/Inventory.txt");
 
 		// Buffered reader reading from file location entered by user.
 		BufferedReader br = new BufferedReader( new FileReader(in) );
